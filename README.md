@@ -15,9 +15,9 @@ __1. SELECT - in this state the user must select or “pick” a lemon from the 
 
 **2. SQUEEZE - in this state the user “squeezes” a lemon until it is juiced😁**
 
-*3. DRINK 🍸- in this state, the lemonade is ready to drink🍋
+**3. DRINK 🍸- in this state, the lemonade is ready to drink🍋**
 
-_4. RESTART - in this state the glass of lemonade is empty💛
+_4. RESTART - in this state the glass of lemonade is empty💛_
 
 The app is built around simplicity, and is organized in a single activity.
 

@@ -11,9 +11,9 @@ Made this app for us bring our vision of making digital lemonade to life. (KOTLI
 Lemonade is a simple beverage characterized by its lemon flavor.🍋
 Click to select a Lemon😋🤤 and then squeeze it and enjoy having your Drink virtually.😂😂
 
-__1. SELECT - in this state the user must select or “pick” a lemon from the lemon tree 
+__1. SELECT - in this state the user must select or “pick” a lemon from the lemon tree__
 
-*2. SQUEEZE - in this state the user “squeezes” a lemon until it is juiced😁
+**2. SQUEEZE - in this state the user “squeezes” a lemon until it is juiced😁**
 
 *3. DRINK 🍸- in this state, the lemonade is ready to drink🍋
 

@@ -1,19 +1,21 @@
-Project: Lemonade App - Starter Code
+#Project: Lemonade App - Starter Code
 
-We have recruited you to our team to help us bring our vision of making digital lemonade to life. 
-The goal is to create a simple, interactive mobile app that allows you to juice lemons until you have a glass of lemonade. 
+Made this app for us bring our vision of making digital lemonade to life.
+
+> The goal is to create a simple, interactive mobile app that allows you to juice lemons until you have a glass of lemonade. 
+
 Consider it a metaphor, or maybe just a fun way to pass the time!
 
-What you'll need
-  A computer with Android Studio installed.
+## What you'll need
+   A computer with Android Studio installed.
 
 Lemonade is a simple beverage characterized by its lemon flavor.🍋
 Click to select a Lemon😋🤤 and then squeeze it and enjoy having your Drink virtually.😂😂
 
-1. SELECT - in this state the user must select or “pick” a lemon from the lemon tree 
-2. SQUEEZE - in this state the user “squeezes” a lemon until it is juiced😁
-3. DRINK 🍸- in this state, the lemonade is ready to drink🍋
-4. RESTART - in this state the glass of lemonade is empty💛
+_1. SELECT - in this state the user must select or “pick” a lemon from the lemon tree 
+_2. SQUEEZE - in this state the user “squeezes” a lemon until it is juiced😁
+_3. DRINK 🍸- in this state, the lemonade is ready to drink🍋
+_4. RESTART - in this state the glass of lemonade is empty💛
  
 ![Screenshot 2022-06-23 115914](https://user-images.githubusercontent.com/89247662/175230633-d3c1eca7-ee92-4433-a656-8794e74c3d3e.png)
 

@@ -11,11 +11,11 @@ Made this app for us bring our vision of making digital lemonade to life. (KOTLI
 Lemonade is a simple beverage characterized by its lemon flavor.🍋
 Click to select a Lemon😋🤤 and then squeeze it and enjoy having your Drink virtually.😂😂
 
-_1. SELECT - in this state the user must select or “pick” a lemon from the lemon tree 
+__1. SELECT - in this state the user must select or “pick” a lemon from the lemon tree 
 
-_2. SQUEEZE - in this state the user “squeezes” a lemon until it is juiced😁
+*2. SQUEEZE - in this state the user “squeezes” a lemon until it is juiced😁
 
-_3. DRINK 🍸- in this state, the lemonade is ready to drink🍋
+*3. DRINK 🍸- in this state, the lemonade is ready to drink🍋
 
 _4. RESTART - in this state the glass of lemonade is empty💛
 
@@ -27,6 +27,8 @@ finally, the empty glass) are represented by something called a state machine.
 This sounds like a fancy theoretical term, but all this means is that the app's state (i.e. which text and image is shown to the user) is determined by a variable that contains the app's state (select, squeeze, etc.).
 
 The app's state is updated, along with any other needed variables, and then the UI is configured (setting the image and text) separately once all the updates have been made.
+ 
+ # IMAGES
  
 ![Screenshot 2022-06-23 115914](https://user-images.githubusercontent.com/89247662/175230633-d3c1eca7-ee92-4433-a656-8794e74c3d3e.png)
 
